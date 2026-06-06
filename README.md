@@ -18,4 +18,4 @@ Twitter data to find the public mood and the degree of membership into 3 classes
 <a href="https://www.tweepy.org/"><li>Tweepy</a></li>
 <a href="https://www.python.org/"><li>Python</a></li>
 
-- Mahi Doshi
+
